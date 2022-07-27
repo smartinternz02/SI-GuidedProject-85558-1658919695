@@ -8,4 +8,5 @@ Following are the steps involved:
 5. We test the set before deploying the app.
 6. Created Node-Red App to launch app.
 7. The app is then created.
+
 Result is shown in the screenshot: "Screenshot of prediction in App.png"
