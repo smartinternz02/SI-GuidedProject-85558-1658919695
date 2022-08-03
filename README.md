@@ -12,3 +12,5 @@ Following are the steps involved:
 The URL for this app is https://node-red-iscsw-2022-07-27.mybluemix.net/ui/#!/0?socketid=rjsWuM0QL7fNlhffAAAB
 
 Result is shown in the screenshot: "https://github.com/smartinternz02/SI-GuidedProject-85558-1658919695/blob/fcfadf8cb57b7b3a720f8a0c25567594b5a1adfe/Screenshot%20of%20prediction%20in%20App.png"
+
+For understanding the steps involved, you can watch video on: https://youtu.be/wBuEISeEC0Q
